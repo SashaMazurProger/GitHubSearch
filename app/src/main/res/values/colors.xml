@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Blue theme colors  -->
+    <color name="colorPrimary">#5A4EDA</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#5A4EDA</color>
+    <color name="colorAccent">#3A2FB5</color>
+    <color name="colorBackground">#E5E5E5</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnPrimarySurface">#FFFFFF</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorError">#EC4E4E</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <!--    -->
+</resources>

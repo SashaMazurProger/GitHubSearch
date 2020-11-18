@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHub Search</string>
+    <string name="main_click_again_for_exit">Нажмите ещё раз для выхода</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="error_data_is_null">Не удалось загрузить данные</string>
+    <string name="empty_holder_text">Пусто</string>
+    <string name="search_query_hint">Поиск репозиториев</string>
+</resources>
